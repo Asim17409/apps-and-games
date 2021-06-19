@@ -1,0 +1,11 @@
+
+    *{
+        background-color: chartreuse;
+    }
+    p{
+        font-size: 72px;
+    }
+.A{
+    display:flex;
+    justify-content:space-between ;
+}
